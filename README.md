@@ -36,25 +36,27 @@ Follow these instructions to get this project running on your local machine.
 
 
 2. Create a Virtual environment:
-    python -m venv venv
+
+   python -m venv venv
+
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-3. install dependencies:
+4. install dependencies:
      pip install -r requirements.txt
 
-4. Configure your database settings in blog/settings.py under the DATABASES section.
+5. Configure your database settings in blog/settings.py under the DATABASES section.
 
-5. Run migrations:
+6. Run migrations:
     python manage.py makemigrations
     python manage.py migrate
 
-6. Create a superuser:
+7. Create a superuser:
   python manage.py createsuperuser
 
-7. Start the server:
+8. Start the server:
   python manage.py runserver
 
-8. Visit http://127.0.0.1:8000/admin to access the admin panel and http://127.0.0.1:8000/ to view the blog.
+9. Visit http://127.0.0.1:8000/admin to access the admin panel and http://127.0.0.1:8000/ to view the blog.
 
 
 ### Contributing
