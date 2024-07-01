@@ -1,0 +1,1 @@
+# Django_MySQL_Blog_project
