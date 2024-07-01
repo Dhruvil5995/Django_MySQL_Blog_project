@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Django_MySQL_Blog_project
 =======
 # Django Blog Project
