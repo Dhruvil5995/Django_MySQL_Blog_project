@@ -1,7 +1,6 @@
 
 # Django_MySQL_Blog_project
-=======
-# Django Blog Project
+
 
 This Django blog project is a simple blogging platform where users can view posts on the homepage and manage the blog posts through the Django admin panel. The project is built using Django and MySQL.
 
