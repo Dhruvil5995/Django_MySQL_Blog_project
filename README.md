@@ -59,32 +59,4 @@ Follow these instructions to get this project running on your local machine.
 
 
 ### Contributing
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
-
->>>>>>> 209a80e (Create README.md)
+I want you to know that contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
